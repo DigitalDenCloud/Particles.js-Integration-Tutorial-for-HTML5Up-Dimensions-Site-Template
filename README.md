@@ -1,9 +1,9 @@
-[![Demo](demo.png)](https://digitalden.cloud)
+<a href="https://digitalden.cloud" target="_blank"><img src="demo.png" alt="Demo"></a>
 
 <h1 align="center">Particles.js Integration Tutorial for HTML5Up Dimensions Site Template</h1>
 
 <p align="center">
-  <a href="https://youtube.com/playlist?list=PLfmMgg_VrrlAz4s0UxLCdgZlcw2iCqVrD">
+  <a href="https://youtu.be/CZ0-xZhTxfo">
     <img src="https://img.shields.io/badge/YouTube-Tutorial-red.svg" alt="Tutorial Series on YouTube">
   </a>
 </p>
